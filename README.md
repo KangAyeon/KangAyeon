@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=215&section=header&text=亞鉛失色&fontSize=215&fontColor=ED1C24&fontAlignY=65)
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=25&section=header&text=ZincEtching&fontSize=25&fontColor=ED1C24&fontAlign=92)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=215&section=header&text=亞鉛失色&fontSize=215&fontColor=ED1C24&fontAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=25&section=header&text=ZincEtching&fontSize=25&fontColor=ED1C24&fontAlign=92)
 
 
 Ayeon. A 2nd Lead
