@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=25&section=header&text=ZincEtching&fontSize=25&fontColor=ED1C24&fontAlign=92)
 
 
-## Ayeon. A 2nd Lead
+Ayeon. A 2nd Lead
 
 Currently Learning About Computer\nHard Study Hard Work Good Vive Keep Going
 
