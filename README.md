@@ -4,7 +4,7 @@
 
 Ayeon. A 2nd Lead
 
-Currently Learning About Computer\nHard Study Hard Work Good Vive Keep Going
+Currently Learning About Computer\nHard Study Hard Work Good Vibe Keep Going
 
 Most Used
 >![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
