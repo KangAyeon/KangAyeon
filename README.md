@@ -18,7 +18,7 @@ Most Used
 
 Email:
 
-Do not click the image!!
+(Do not click the image!!)
 >
 >![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) rkddkdus05@gmail.com
 >
